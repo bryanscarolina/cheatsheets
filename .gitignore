@@ -1,0 +1,48 @@
+# Mac 
+.DS_Store
+
+# Working Copy
+localStorage.json
+
+# Documents
+*.pdf
+
+# Accidental Zip Uploads
+*.zip
+
+# Netlify 
+*.log
+.cache
+src/.temp
+.netlify
+
+# Node JS
+node_modules
+dist
+.env
+.env.*
+
+# Working DEV Folders
+templates/*
+documentation/*
+forms/*
+scss/*
+pages/*
+
+# Prepros Compiler Configuration (v6, v7)
+prepros-6.config
+prepros.config
+
+# Working Copy
+localStorage.json
+
+# VS Code Project Files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Performance Budget
+/budget.json
