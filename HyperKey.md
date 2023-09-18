@@ -33,7 +33,7 @@
 | `Y` |                                             |                    |
 | `Z` | Add Selected Files to Yoink                 | System Preferences |
 
-### Numbers & Symbols
+### Numbers
 
 | **Shortcut** | **Action**                      | **App Used** |
 |:---:|:---:|:---:|
@@ -42,3 +42,25 @@
 | `3` | Capture Text in TextSniper      | App Settings |
 | `4` | Capture Area in Cleanshot X     | App Settings |
 | `5` | Take Screenshot & Send to Yoink | Alfred       |
+| `6` |      |     |
+| `7` |      |     |
+| `8` |      |     |
+| `9` |      |     |
+| `0` |      |     |
+
+### Symbols
+
+| **Shortcut** | **Action**                      | **App Used** |
+|:---:|:---:|:---:|
+| `␣`/`space` |  Show Alfred  | App Settings | 
+| `-_` |  Disconnect AirPods  | Alfred | 
+| `=+` |  Connect AirPods  | Alfred | 
+| `\|` |     |     | 
+| `[{` |     |     | 
+| `]}` |     |     | 
+| `;:` |     |     | 
+| `’”` |     |     | 
+| `⏎`/`return` |  Show File Actions  | Alfred | 
+| `,<` |     |     | 
+| `.>` |     |     | 
+| `/?` |     |     | 
