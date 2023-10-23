@@ -6,47 +6,47 @@
 
 | **Shortcut** | **Action**                                  | **App Used**       |
 |:---:|:---:|:---:|
-| `A` |                                             |  |
-| `B` | Launch BluFish Remote                       | BetterTouchTool    |
-| `C` |                                             |                    |
-| `D` | Launch Todoist                              | BetterTouchTool    |
-| `E` | Launch Airmail                              | BetterTouchTool    |
-| `F` | Launch Fantastical                          | BetterTouchTool    |
-| `G` | Launch Google Chrome                        | BetterTouchTool    |
-| `H` | Show Cardhop                                | App Settings       |
-| `I` | Finder Palette                              | Keyboard Maestro   |
-| `J` | Launch Drafts                               | BetterTouchTool    |
-| `K` | Launch Keyboard Maestro                     | BetterTouchTool    |
-| `L` | Launch Slack                                | BetterTouchTool    |
-| `M` | Launch Messages                             | BetterTouchTool    |
-| `N` | Create New File Prompt                      | Alfred             |
-| `O` | Send to Cardhop                             | System Preferences |
-| `P` | Show PopClip                                | App Settings       |
-| `Q` | Quick Add in Todoist                        | App Settings       |
-| `R` | Launch InstaRemind                          | App Settings       |
-| `S` | Send to Drafts                              | PopClip            |
-| `T` | Launch/Show Todoist                         | BetterTouchTool    |
-| `U` |                                             |                    |
-| `V` |                                             |                    |
-| `W` | Show Last Downloaded File | Alfred             |
-| `X` | Show Yoink                                  | App Settings       |
-| `Y` |                                             |                    |
-| `Z` | Add Selected Files to Yoink                 | System Preferences |
+| `A` |                |                    |
+| `B` |                |                    |
+| `C` |                |                    |
+| `D` | Launch Todoist | BetterTouchTool    |
+| `E` | Launch Airmail  | BetterTouchTool   |
+| `F` | Launch Fantastical | BetterTouchTool |
+| `G` | Launch Google Chrome | BetterTouchTool |
+| `H` | Show Cardhop | App Settings       |
+| `I` | Finder Palette | Keyboard Maestro |
+| `J` | Launch Drafts | BetterTouchTool   |
+| `K` | Show Drafts | App Settings  |
+| `L` | Launch Slack | BetterTouchTool    |
+| `M` | Launch Messages | BetterTouchTool |
+| `N` | Create New File Prompt  | Alfred |
+| `O` | Send to Cardhop | Service |
+| `P` | Show PopClip | App Settings |
+| `Q` | Quick Add in Todoist | App Settings |
+| `R` | Show InstaRemind | App Settings  |
+| `S` | Send to Drafts | Alfred |
+| `T` | Show SnippetsLab | App Settings  |
+| `U` | Launch Hyper | BetterTouchTool |
+| `V` | Launch VS Code | BetterTouchTool |
+| `W` | Show Last Downloaded File | Alfred |
+| `X` | Show Yoink | App Settings |
+| `Y` | Launch Settings | BetterTouchTool |
+| `Z` | Add Selected Files to Yoink | Service |
 
 ### Numbers
 
 | **Shortcut** | **Action**                      | **App Used** |
 |:---:|:---:|:---:|
-| `1` | Quick Capture in Drafts         | App Settings |
-| `2` | Open Capture Window in Drafts   | App Settings |
-| `3` | Capture Text in TextSniper      | App Settings |
-| `4` | Capture Area in Cleanshot X     | App Settings |
-| `5` | Take Screenshot & Send to Yoink | Alfred       |
-| `6` |      |     |
-| `7` |      |     |
-| `8` |      |     |
-| `9` |      |     |
-| `0` |      |     |
+| `1` | Import Clipboard to Drafts | Drafts |
+| `2` | Open Capture Window in Drafts | Drafts |
+| `3` | OCR Text from Image | TextSniper |
+| `4` | Capture Area in Cleanshot X | Cleanshot X |
+| `5` | Take Screenshot to Yoink | Alfred |
+| `6` |        |         |
+| `7` |        |         |
+| `8` |        |         |
+| `9` |        |         |
+| `0` |        |         |
 
 ### Symbols
 
