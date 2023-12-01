@@ -53,8 +53,8 @@
 | **Shortcut** | **Action**                      | **App Used** |
 |:---:|:---:|:---:|
 | `␣`/`space` |  Show Alfred  | App Settings | 
-| `-_` |  Disconnect AirPods  | Alfred | 
-| `=+` |  Connect AirPods  | Alfred | 
+| `-_` |  Show Hidden Menu Bar Items  | Bartender | 
+| `=+` |  Show All Menu Bar Items  | Bartender | 
 | `\|` |     |     | 
 | `[{` |     |     | 
 | `]}` |     |     | 
