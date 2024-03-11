@@ -7,8 +7,8 @@
 | **Shortcut** | **Action**                                  | **App Used**       |
 |:---:|:---:|:---:|
 | `A` |                |                    |
-| `B` |                |                    |
-| `C` |                |                    |
+| `B` | Launch BluFish Support \* | BetterTouchTool |
+| `C` | Launch Craft       |    BetterTouchTool    |
 | `D` | Launch Todoist | BetterTouchTool    |
 | `E` | Launch Airmail  | BetterTouchTool   |
 | `F` | Launch Fantastical | BetterTouchTool |
@@ -35,17 +35,17 @@
 
 ### Numbers
 
-| **Shortcut** | **Action**                      | **App Used** |
+| **Shortcut** | **Action** | **App Used** |
 |:---:|:---:|:---:|
 | `1` | Import Clipboard to Drafts | Drafts |
 | `2` | Open Capture Window in Drafts | Drafts |
 | `3` | OCR Text from Image | TextSniper |
 | `4` | Capture Area in Cleanshot X | Cleanshot X |
 | `5` | Take Screenshot to Yoink | Alfred |
-| `6` |        |         |
+| `6` | Launch Airtable  |   BetterTouchTool  |
 | `7` |        |         |
-| `8` |        |         |
-| `9` |        |         |
+| `8` | Set Custom Profile “A” in Karabiner | Keyboard Maestro |
+| `9` | Set Custom Profile “B” in Karabiner | Keyboard Maestro |
 | `0` |        |         |
 
 ### Symbols
@@ -55,7 +55,7 @@
 | `␣`/`space` |  Show Alfred  | App Settings | 
 | `-_` |  Show Hidden Menu Bar Items  | Bartender | 
 | `=+` |  Show All Menu Bar Items  | Bartender | 
-| `\|` |     |     | 
+| `\|` | Copy File Path in Finder    | Alfred    | 
 | `[{` |     |     | 
 | `]}` |     |     | 
 | `;:` |     |     | 
