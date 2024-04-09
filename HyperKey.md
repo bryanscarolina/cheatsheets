@@ -43,7 +43,7 @@
 | `4` | Capture Area in Cleanshot X | Cleanshot X |
 | `5` | Take Screenshot to Yoink | Alfred |
 | `6` | Launch Airtable  |   BetterTouchTool  |
-| `7` |        |         |
+| `7` | Run _Add a Ticket_ Shortcut | Shortcuts |
 | `8` | Set Custom Profile “A” in Karabiner | Keyboard Maestro |
 | `9` | Set Custom Profile “B” in Karabiner | Keyboard Maestro |
 | `0` |        |         |
