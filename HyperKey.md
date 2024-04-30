@@ -64,3 +64,14 @@
 | `,<` |     |     | 
 | `.>` |     |     | 
 | `/?` |     |     | 
+
+
+### Useful Miscellaneous Shortcuts
+
+| **Shortcut** | **Action** | **App Used** |
+|:---:|:---:|:---:|
+| `⌃` `⌥` `⇧` `⌘` `␣` |  Show Alfred  | Alfred |
+| `⌘` `␣` | Show Raycast | Raycast |
+| `⌥` `␣` | Show Fantastical Mini Window | Fantastical |
+| `⌥` `⇧` `␣` | Show Alfred's Clipboard History | Alfred |
+| `⌘` `⌥` `⌃` `␣` | Todoist Quick Add Task | Todoist |
