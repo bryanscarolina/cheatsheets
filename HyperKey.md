@@ -8,7 +8,7 @@
 |:---:|:---:|:---:|
 | `A` |                |                    |
 | `B` | Launch BluFish Support \* | BetterTouchTool |
-| `C` | Launch Craft       |    BetterTouchTool    |
+| `C` | Copy Hookmark Link       |    Hookmark    |
 | `D` | Launch Todoist | BetterTouchTool    |
 | `E` | Launch Airmail  | BetterTouchTool   |
 | `F` | Launch Fantastical | BetterTouchTool |
@@ -18,7 +18,7 @@
 | `J` | Launch Drafts | BetterTouchTool   |
 | `K` | Show Drafts | App Settings  |
 | `L` | Launch Slack | BetterTouchTool    |
-| `M` | Launch Messages | BetterTouchTool |
+| `M` | Copy Markdown Link in Hookmark | Hookmark |
 | `N` | Create New File Prompt  | Alfred |
 | `O` | Send to Cardhop | Service |
 | `P` | Show PopClip | App Settings |
