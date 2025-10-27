@@ -24,10 +24,10 @@
 | `P` | Show PopClip | App Settings |
 | `Q` | Quick Add in Todoist | App Settings |
 | `R` | Show InstaRemind | App Settings  |
-| `S` | Send to Drafts | Alfred |
-| `T` | Show SnippetsLab | App Settings  |
+| `S` | Launch Soulver Mini | Soulver |
+| `T` | Show BTT Cheatsheet | BetterTouchTool |
 | `U` | Launch Hyper | BetterTouchTool |
-| `V` | Launch VS Code | BetterTouchTool |
+| `V` |  |  |
 | `W` | Show Last Downloaded File | Alfred |
 | `X` | Show Yoink | App Settings |
 | `Y` | Launch Settings | BetterTouchTool |
@@ -52,19 +52,21 @@
 
 | **Shortcut** | **Action**                      | **App Used** |
 |:---:|:---:|:---:|
-| `␣`/`space` |  Show Alfred  | App Settings | 
-| `-_` |  Show Hidden Menu Bar Items  | Bartender | 
-| `=+` |  Show All Menu Bar Items  | Bartender | 
-| `\|` | Copy File Path in Finder    | Alfred    | 
-| `[{` |     |     | 
-| `]}` |     |     | 
-| `;:` |     |     | 
-| `’”` |     |     | 
-| `⏎`/`return` |  Show File Actions  | Alfred | 
-| `,<` |     |     | 
-| `.>` |     |     | 
-| `/?` |     |     | 
-
+| `␣` / `space` |  Show Alfred  | Alfred |
+| `→` |  Move Window One Space/Desktop Right  | BetterTouchTool |
+| `←` |  Move Window One Space/Desktop Left  | BetterTouchTool |
+| `␣` / `space` |  Show Alfred  | App Settings |
+| `-` / `_` |  Show Hidden Menu Bar Items  | Bartender |
+| `=` / `+` |  Show All Menu Bar Items  | Bartender |
+| `\` / `|` | Copy File Path in Finder    | Alfred    |
+| `[` / `{` | Show ColorSlurp | App Settings |
+| `]` / `}` | Show Magnifier in ColorSlurp | App Settings |
+| `;` / `:` |     |     |
+| `’` / `”` |     |     |
+| `⏎`/`return` |  Show File Actions  | Alfred |
+| `,` / `<` |     |     |
+| `.` / `>` |     |     |
+| `/` / `?` |     |     |
 
 ### Useful Miscellaneous Shortcuts
 
