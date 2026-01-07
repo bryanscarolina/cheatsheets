@@ -24,7 +24,7 @@
 | `P` | Show PopClip | App Settings |
 | `Q` | Quick Add in Todoist | App Settings |
 | `R` | Show InstaRemind | App Settings  |
-| `S` | Launch Soulver Mini | Soulver |
+| `S` | Snippets Shortcut | Rocket Typist |
 | `T` | Show BTT Cheatsheet | BetterTouchTool |
 | `U` | Launch Hyper | BetterTouchTool |
 | `V` |  |  |
