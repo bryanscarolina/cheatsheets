@@ -7,10 +7,10 @@
 | **Shortcut** | **Action**                                  | **App Used**       |
 |:---:|:---:|:---:|
 | `A` |                |                    |
-| `B` | Launch BluFish Support \* | BetterTouchTool |
-| `C` | Copy Hookmark Link       |    Hookmark    |
-| `D` | Launch Todoist | BetterTouchTool    |
-| `E` | Launch Airmail  | BetterTouchTool   |
+| `B` |  |  |
+| `C` | Activate Paste |    Paste    |
+| `D` | Show/Hide Todoist | Todoist |
+| `E` | Launch Mailspring | BetterTouchTool   |
 | `F` | Launch Fantastical | BetterTouchTool |
 | `G` | Launch Google Chrome | BetterTouchTool |
 | `H` | Show Cardhop | App Settings       |
@@ -18,7 +18,7 @@
 | `J` | Launch Drafts | BetterTouchTool   |
 | `K` | Show Drafts | App Settings  |
 | `L` | Launch Slack | BetterTouchTool    |
-| `M` | Copy Markdown Link in Hookmark | Hookmark |
+| `M` | Menu Bar Search | Alfred |
 | `N` | Create New File Prompt  | Alfred |
 | `O` | Send to Cardhop | Service |
 | `P` | Show PopClip | App Settings |
@@ -27,10 +27,10 @@
 | `S` | Snippets Shortcut | Rocket Typist |
 | `T` | Show BTT Cheatsheet | BetterTouchTool |
 | `U` | Launch Hyper | BetterTouchTool |
-| `V` |  |  |
+| `V` | Quick Add Task | Todoist |
 | `W` | Show Last Downloaded File | Alfred |
-| `X` | Show Yoink | App Settings |
-| `Y` | Launch Settings | BetterTouchTool |
+| `X` | Toggle Yoink | Yoink |
+| `Y` | Launch System Settings | BetterTouchTool |
 | `Z` | Add Selected Files to Yoink | Service |
 
 ### Numbers
@@ -40,8 +40,8 @@
 | `1` | Import Clipboard to Drafts | Drafts |
 | `2` | Open Capture Window in Drafts | Drafts |
 | `3` | OCR Text from Image | TextSniper |
-| `4` | Capture Area in Cleanshot X | Cleanshot X |
-| `5` | Take Screenshot to Yoink | Alfred |
+| `4` | Take Screenshot, Send to Yoink | Alfred |
+| `5` |  |  |
 | `6` | Launch Airtable  |   BetterTouchTool  |
 | `7` | Run _Add a Ticket_ Shortcut | Shortcuts |
 | `8` | Set Custom Profile “A” in Karabiner | Keyboard Maestro |
