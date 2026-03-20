@@ -6,7 +6,7 @@
 
 | **Shortcut** | **Action**                                  | **App Used**       |
 |:---:|:---:|:---:|
-| `A` |                |                    |
+| `A` | Show Typinator Window | Typinator |
 | `B` |  |  |
 | `C` | Activate Paste |    Paste    |
 | `D` | Show/Hide Todoist | Todoist |
@@ -24,7 +24,7 @@
 | `P` | Show PopClip | App Settings |
 | `Q` | Quick Add in Todoist | App Settings |
 | `R` | Show InstaRemind | App Settings  |
-| `S` | Show Typinator Window | Typinator |
+| `S` | Quick Search in Typinator | Typinator |
 | `T` | Show BTT Cheatsheet | BetterTouchTool |
 | `U` | Launch Hyper | BetterTouchTool |
 | `V` | Quick Add Task | Todoist |
