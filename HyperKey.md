@@ -1,13 +1,13 @@
-> **NOTE:** INCOMPLETE. Will finish when I’m back at my laptop.
+## Hyper Key Shortcuts 
 
-## Hyper Key Shortcuts
+> **INFO:** A "Hyper Key" is a pretty neat automation that makes the <kbd>caps lock</kbd> key _actually_ useful. It acts as if you are pressing all of the standard modifier (<kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> ) keys at once. Tapping the key makes it act as the <kbd>esc</kbd> key. And if you actually want to put <kbd>caps lock</kbd> on, hold shift while pressing it.
 
 ### Letters
 
 | **Shortcut** | **Action**                                  | **App Used**       |
 |:---:|:---:|:---:|
 | `A` | Show Typinator Window | Typinator |
-| `B` |  |  |
+| `B` | Website to Markdown in Drafts | Keyboard Maestro |
 | `C` | Activate Paste |    Paste    |
 | `D` | Show/Hide Todoist | Todoist |
 | `E` | Launch Mailspring | BetterTouchTool   |
@@ -42,7 +42,7 @@
 | `3` | OCR Text from Image | TextSniper |
 | `4` | Take Screenshot, Send to Yoink | Alfred |
 | `5` |  |  |
-| `6` | Launch Airtable  |   BetterTouchTool  |
+| `6` | Show Typinator Window |  Typinator  |
 | `7` | Run _Add a Ticket_ Shortcut | Shortcuts |
 | `8` | Set Custom Profile “A” in Karabiner | Keyboard Maestro |
 | `9` | Set Custom Profile “B” in Karabiner | Keyboard Maestro |
@@ -63,7 +63,7 @@
 | `]` / `}` | Show Magnifier in ColorSlurp | App Settings |
 | `;` / `:` |     |     |
 | `’` / `”` |     |     |
-| `⏎`/`return` |  Show File Actions  | Alfred |
+| `⏎`/`return` |  Show File Actions in Alfred  | Alfred |
 | `,` / `<` |     |     |
 | `.` / `>` |     |     |
 | `/` / `?` |     |     |
@@ -73,7 +73,5 @@
 | **Shortcut** | **Action** | **App Used** |
 |:---:|:---:|:---:|
 | `⌃` `⌥` `⇧` `⌘` `␣` |  Show Alfred  | Alfred |
-| `⌘` `␣` | Show Raycast | Raycast |
 | `⌥` `␣` | Show Fantastical Mini Window | Fantastical |
 | `⌥` `⇧` `␣` | Show Alfred's Clipboard History | Alfred |
-| `⌘` `⌥` `⌃` `␣` | Todoist Quick Add Task | Todoist |
