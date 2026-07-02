@@ -41,7 +41,7 @@
 | `2` | Open Capture Window in Drafts | Drafts |
 | `3` | OCR Text from Image | TextSniper |
 | `4` | Take Screenshot, Send to Yoink | Alfred |
-| `5` |  |  |
+| `5` | Capture Area & Annotate | CleanShot X |
 | `6` | Show Typinator Window |  Typinator  |
 | `7` | Run _Add a Ticket_ Shortcut | Shortcuts |
 | `8` | Set Custom Profile “A” in Karabiner | Keyboard Maestro |
